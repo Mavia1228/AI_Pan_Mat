@@ -1,0 +1,18 @@
+Interview Related : 
+       (GitHub, GitLab, BitBucket ) is also called Version Control System
+       what is pr? : Pull Request
+create new repository
+in git bash
+username
+email
+ now in terminal 
+git init 
+git status
+git add .
+git commit -m "your choice"
+git branch -m main (create another branch otherwise it will puch to master branch)
+now copy path from GitHub
+git push (if branch not changed)
+git push -u origin main (if branch is changed)
+
+!! If any Error occer in terminal jsut delete .git folder and recreate it and start again.

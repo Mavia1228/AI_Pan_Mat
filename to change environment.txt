@@ -1,0 +1,2 @@
+to change environment  
+Search -> Edit the system Environment Variable -> Environment Variable -> Path -> select version -> up or down
